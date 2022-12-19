@@ -903,14 +903,11 @@ h3 {
         font-size: 13px;
     }
     .contain-btn {
-        width: 32%;
+        width: 30%;
         height: 100px;
-        border-radius: 30px;
- 
-        
-       
+        border-radius: 30px;    
         margin-top: 10px;
-        margin-right: 10px;
+        margin-right: 8px;
     }
     .containn {
         width: 90%;
